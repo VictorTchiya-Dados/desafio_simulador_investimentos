@@ -1,3 +1,5 @@
+# Projeto Simulador de Investimentos DIO+Reclame Aqui
+
 Este projeto, desenvolvido durante o Bootcamp DIO + Reclame Aqui, trouxe práticas importantes para aplicar os conhecimentos
 adquiridos nos módulos realizados até então.<br><br>
 
@@ -26,7 +28,7 @@ Criação de um topo personalizado, desenvolvido especificamente para a minha ve
 Alteração da paleta de cores utilizada na planilha; <br>
 Personalização dos tipos de bordas e formatações; <br><br>
 
-Resumo do que foi utilizado ao longo deste projeto: <br>
+# Resumo do que foi utilizado ao longo deste projeto: <br>
 Ferramenta: Microsoft Excel (utilizei a versão online, o que me desafiou a encontrar soluções para algumas funções que no 
 online não eram as mesmas). <br>
 Funções: PROCV ; VF. <br>
